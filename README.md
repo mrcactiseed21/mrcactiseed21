@@ -1,1 +1,1 @@
-- awful at programming
+- poor programmer
